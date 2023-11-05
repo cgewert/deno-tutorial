@@ -1,6 +1,6 @@
 # deno compile
 
-Will contain deno code into a single executable file.
+Will compile deno code into a single executable file.
 
 ## How to use
 
